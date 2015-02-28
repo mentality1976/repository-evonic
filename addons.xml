@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.Evonic"
+       name="Evonic"
+       version="1.3.1.2"
+       provider-name="mentality">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.beautifulsoup" version="3.2.0"/>
+        <import addon="script.module.metahandler" version="2.5.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Nur fuer Premium Member</summary>
+        <description lang="de">
+            Fix für die Collections(der Bugfix kam von DarkZone Danke schön)!!!
+Mentality und EVONIC wünschen euch viel Spaß!!!</description>
+        <description lang="en">
+            German language content.
+            Series links are adapted!!!
+Mentality and EVONIC are presenting!!!</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.evonic"
+		name="Evonic Repository"
+		version="0.0.1"
+		provider-name="MENTALITY">
+	<extension point="xbmc.addon.repository" name="Repository Evonic.tv">
+		<info compressed="false">http://repository-evonic.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://repository-evonic.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://repository-evonic.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Official repository for Evonic</summary>
+		<summary lang="tr">Evonic'e özel repository</summary>
+		<description lang="en">Official video addon for Evonic</description>
+		<description lang="de">Offizielles Repository für Evonic</description>
+		<disclaimer lang="de">MENTALITY's KODI plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.evonic" 
+		name="Evonic Repository" 
+		version="0.0.1" 
+		provider-name="MENTALITY">
+	<extension point="xbmc.addon.repository" name="Repository Evonic.tv">
+		<info compressed="false">http://repository-evonic.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://repository-evonic.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://repository-evonic.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Official repository for Evonic</summary>
+		<summary lang="tr">Evonic'e özel repository</summary>
+		<description lang="en">Official video addon for Evonic</description>
+		<description lang="de">Offizielles Repository für Evonic</description>
+		<disclaimer lang="de">MENTALITY's KODI plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
