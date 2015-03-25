@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.3.1.3"
+       version="1.3.1.4"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -15,7 +15,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
-            Fix für die Collections(der Bugfix kam von DarkZone Danke schön)!!!
+            Erster Versuch mit Datenbank und Meta!!!
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
         <description lang="en">
             German language content.
