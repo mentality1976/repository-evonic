@@ -1,3 +1,5 @@
+Version 1.3.1.5
+ Changed methods and much ToDo.
 Version 1.3.1.4
  First try with meta database.
 Version 1.3.1.3
@@ -71,4 +73,4 @@ Version 1.1
 Version 1.0
  Offizielles Plugin fuer evonic.tv
 
-Version 
+Version
