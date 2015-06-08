@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.3.1.8"
+       version="1.3.1.9"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -16,9 +16,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
-            Datenbank voll implementiert!!!
-            Die Serien werden nach Fix im theTvdb.py deutsch angezeigt.
-            Der Dank geht an Eldorado für sein super Metahandler.
+Ein paar kleine Fehler behoben. Statusbalken beim laden der Filme implementiert.
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
         <description lang="en">
             German language content.
