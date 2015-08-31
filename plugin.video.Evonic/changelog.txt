@@ -1,3 +1,6 @@
+Version 1.3.2.0
+ HDPlus/HDMobile/Both auswahl funktioniert. Wenn HDPlus/HDMobile ausgewählt wird starten die Filme ohne die Videolinks anzuzeigen.
+ Jetzt kann man auch in den Einstellungen den Metahandler ausschalten, für die denen es einfach zu langsam geht.
 Version 1.3.1.9
  Many bugs fixed.
 Version 1.3.1.8
