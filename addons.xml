@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.3.2.2"
+       version="1.3.2.3"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -16,7 +16,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
-Jetzt funktionieren endlich die Ansicht Einstellungen.Man kann in den Addon Einstellungen den Metahandler für die Filminfos jetzt ausschalten. Wenn Ihr HDPlus oder HDMobile einstellt, spielen die Filme von alleine ab.
+Metahandler ist wieder gefixt, könnt ihr wieder einschalten.
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
         <description lang="en">
             German language content.
